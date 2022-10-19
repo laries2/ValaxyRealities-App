@@ -1,0 +1,18 @@
+all login details for Hillary Betts Apps --->
+
+
+Super-Admin:->
+
+username: superadmin
+password: lariesbett
+
+Admin:->
+
+username: admin
+password: laries
+
+User:->
+
+username: bjoy
+password: joy123
+
